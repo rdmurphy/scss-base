@@ -1,3 +1,3 @@
 # SCSS Base
 
-A collection of my favorite SCSS tricks.
+A growing collection of my favorite SCSS tricks.
