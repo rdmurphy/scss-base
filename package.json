@@ -1,7 +1,7 @@
 {
   "name": "scss-base",
   "version": "0.0.1",
-  "description": "A collection of my favorite SCSS tricks.",
+  "description": "A growing collection of my favorite SCSS tricks.",
   "main": "_scss-base.scss",
   "keywords": [
     "scss"
