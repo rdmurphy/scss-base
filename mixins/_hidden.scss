@@ -1,0 +1,9 @@
+// hidden
+// source: http://juicystudio.com/article/screen-readers-display-none.php
+//
+// Content is hidden both visually and from screen readers.
+
+@mixin hidden {
+  display: none !important;
+  visibility: hidden;
+}
