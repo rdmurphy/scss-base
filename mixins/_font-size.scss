@@ -1,0 +1,10 @@
+// font-size
+// An easy way to set both an IE `rem` fallback and think in pixels at the
+// same time.
+
+$font-size-base: 16 !default;
+
+@mixin font-size($size) {
+  font-size: $size + px;
+  font-size: $size / $font-size-base + rem;
+}
