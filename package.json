@@ -1,5 +1,5 @@
 {
-  "name": "@rdmurphy/scss-base",
+  "name": "@rdm/scss-base",
   "version": "1.0.0",
   "description": "A growing collection of my favorite SCSS tricks.",
   "main": "_scss-base.scss",
@@ -12,5 +12,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rdmurphy/scss-base"
-  },
+  }
 }
