@@ -1,11 +1,16 @@
 {
-  "name": "scss-base",
-  "version": "0.0.1",
+  "name": "@rdmurphy/scss-base",
+  "version": "1.0.0",
   "description": "A growing collection of my favorite SCSS tricks.",
   "main": "_scss-base.scss",
   "keywords": [
-    "scss"
+    "scss",
+    "mixins"
   ],
   "author": "Ryan Murphy",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdmurphy/scss-base"
+  },
 }
